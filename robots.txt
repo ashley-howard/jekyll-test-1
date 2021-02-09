@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ashley.how/jekyll-test-1/sitemap.xml
